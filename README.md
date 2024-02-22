@@ -1,4 +1,4 @@
-# tracker_app2
+# InsightTracker
 
 A new Flutter project.
 
